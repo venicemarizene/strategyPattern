@@ -1,4 +1,5 @@
 # Strategy Pattern
+<b>Game App</b>
 
 Problem scenario:
 
@@ -9,13 +10,16 @@ Suppose we have three types of characters in a GameApp:
 3. Archer: Shoots arrows; uses dodge to to defend
 
 Implement two types of Strategy:
-A. DefenseStrategy
-     1. Shield
-     2. Dodge
-     3. CreateMagic
 
-B.  AttackStrategy
-     1.  CastSpell
-     2.  ShootArrow
-     3.  SwingSword  
+<b>A. DefenseStrategy</b>
+1. Shield
+2. Dodge
+3. CreateMagic
 
+<b>B.  AttackStrategy</b>
+1. CastSpell
+2. ShootArrow
+3. SwingSword  
+
+# UML Class Diagram
+![UML Class Diagram](facadePatternImage.png)
