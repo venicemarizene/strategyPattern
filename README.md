@@ -22,4 +22,4 @@ Implement two types of Strategy:
 3. SwingSword  
 
 # UML Class Diagram
-![UML Class Diagram](facadePatternImage.png)
+![UML Class Diagram](StrategyPattern.png)
